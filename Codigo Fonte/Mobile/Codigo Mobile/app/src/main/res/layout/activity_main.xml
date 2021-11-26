@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <ImageView
+        android:id="@+id/Imagem_Logo"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:scaleType="centerInside"
+        app:srcCompat="@drawable/logoc" />
+
+    <TextView
+        android:id="@+id/Txv_Login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:text="LOGIN"
+        android:textColor="#8207FD"
+        android:textSize="18dp"
+        android:textStyle="bold" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/Edt_Usuario_layout"
+        style="@style/InputLayout"
+        >
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/Edt_Usuario"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="USUARIO"
+            />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/Edt_Senhalayout"
+        style="@style/InputLayout"
+        app:passwordToggleEnabled="true"
+
+        >
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/Edt_Senha"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="SENHA"
+            android:inputType="textPassword"
+            />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <TextView
+        android:id="@+id/Txv_EsqueceuSenha"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="26dp"
+        android:layout_marginTop="10dp"
+        android:text="Esqueçeu a senha?"
+        android:textColor="#8207FD"
+        android:onClick="ClicaBotao03"
+        android:clickable="true"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/Btn_Login"
+        android:layout_width="250dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:onClick="ClicaBotao"
+        android:clickable="true"
+        android:padding="8dp"
+        android:text="ENTRAR"
+        android:textSize="16sp"
+        app:iconPadding="10dp"
+        tools:ignore="UsingOnClickInXml" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:layout_marginTop="15dp">
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Não Possui uma conta?"
+            android:textColor="#000000" />
+
+        <TextView
+            android:id="@+id/TxvCadastre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:paddingLeft="4dp"
+            android:clickable="true"
+            android:onClick="ClicaBotao02"
+            android:text="Cadastre-se"
+            android:textColor="#8207FD" />
+
+
+    </LinearLayout>
+
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:scaleType="centerCrop"
+
+        app:srcCompat="@drawable/logoooo" />
+
+
+
+
+</LinearLayout>

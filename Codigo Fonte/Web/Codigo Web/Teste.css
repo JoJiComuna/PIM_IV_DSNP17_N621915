@@ -1,0 +1,63 @@
+﻿.menuTitle
+{
+   
+    font-weight: 900;
+   font-weight:bold;
+   font-family: 'Roboto';
+}
+.Separador1
+{
+    width : 200px;
+}
+.SectionTittle1
+{
+  
+  
+  
+ 
+}
+.SectionTittle2 {
+    vertical-align: text-top;
+}
+.txtBox {
+    background: transparent;
+    height: 28px;
+    border-radius: 10px;
+    border: 2px solid #808080;
+    margin-left: 0px;
+}
+.SecondText
+{
+    margin-left :50px;
+}
+.txtBoxSpacing {
+    margin-left: 50px;
+}
+.txtheader
+{
+    font-family : 'Roboto';
+    font-weight: 500;
+    text-align: left;
+}
+.lblTrocarSpacing
+{
+    margin-left: 20px;
+}
+.btnLog {
+    border:none;
+    border: 1px solid;
+    border-radius: 15px;
+    background: #0094ff;
+    
+}
+.spaceTop
+{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.imgAlign {
+    border: 0px solid #80808015; 
+    border-radius: 15px;
+    
+    background: whitesmoke;
+}

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".tl_Perfil"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/Txv_Reservinha"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Perfil"
+        android:textSize="30dp"
+        android:textColor="@color/colorPrimaryAccent"
+        android:textStyle="bold" />
+
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/profile_image"
+        android:layout_width="96dp"
+    android:layout_height="96dp"
+        android:layout_gravity="center"
+    android:src="@drawable/psicina"
+    app:civ_border_width="2dp"
+    app:civ_border_color="#FF000000"/>
+
+    <TextView
+        android:id="@+id/textView60"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Nome"
+        android:textSize="24sp"
+        android:textAlignment="center"
+        android:paddingTop="4dp"
+        android:paddingBottom="4dp"/>
+
+    <TextView
+        android:id="@+id/textView32"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Documento"
+        android:textSize="24sp"
+        android:textAlignment="center"
+        android:paddingTop="4dp"
+        android:paddingBottom="4dp"/>
+    <TextView
+        android:id="@+id/textView238"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Telefone"
+        android:textSize="24sp"
+        android:textAlignment="center"
+        android:paddingTop="4dp"
+        android:paddingBottom="4dp"/>
+    <TextView
+        android:id="@+id/textView22"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Email"
+        android:textSize="24sp"
+        android:textAlignment="center"
+        android:paddingTop="4dp"
+        android:paddingBottom="4dp"/>
+    <TextView
+        android:id="@+id/textView252"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="UF"
+        android:textSize="24sp"
+        android:textAlignment="center"
+        android:paddingTop="4dp"
+        android:paddingBottom="4dp"/>
+    <TextView
+        android:id="@+id/textView232"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Cidade"
+        android:textSize="24sp"
+        android:textAlignment="center"
+        android:paddingTop="4dp"
+        android:paddingBottom="4dp"/>
+
+    <TextView
+        android:id="@+id/textView2732"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Bairro"
+        android:textSize="24sp"
+        android:textAlignment="center"
+        android:paddingTop="4dp"
+        android:paddingBottom="4dp"/>
+    <TextView
+        android:id="@+id/textView2321"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Rua"
+        android:textSize="24sp"
+        android:textAlignment="center"
+        android:paddingTop="4dp"
+        android:paddingBottom="4dp"/>
+
+    <TextView
+        android:id="@+id/textView2341"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Nº"
+        android:textSize="24sp"
+        android:textAlignment="center"
+        android:paddingTop="4dp"
+        android:paddingBottom="4dp"/>
+
+
+</LinearLayout>

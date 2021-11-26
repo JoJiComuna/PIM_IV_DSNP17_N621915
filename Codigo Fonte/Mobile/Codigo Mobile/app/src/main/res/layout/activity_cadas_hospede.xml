@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CadasHospede"
+    android:orientation="vertical">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/Txv_Cadastro"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="20dp"
+            android:text="CADASTRO COMO HÓSPEDE"
+            android:textColor="@color/black"
+            android:textSize="26dp"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/Edt_Nome_layout"
+                style="@style/InputLayout">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/Edt_NomeCom"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Nome completo" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/Edt_NumDoc_layout"
+                style="@style/InputLayout">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/Edt_NumDoc"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Documento" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/Edt_Telefone_layout"
+                style="@style/InputLayout">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/Edt_Telefone"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Telefone"
+                    android:inputType="phone" />
+
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/Edt_EmailRe_layout"
+                style="@style/InputLayout">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/Edt_EmailRe"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Email Reserva" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/Txv_Login"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="20dp"
+                android:text="Endereço"
+                android:textColor="@color/black"
+                android:textSize="24dp"
+                android:textStyle="bold" />
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/Edt_UF_layout"
+                style="@style/InputLayout">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/Edt_UF"
+                    android:layout_width="94dp"
+                    android:layout_height="wrap_content"
+                    android:hint="UF" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/Edt_Cidade_layout"
+                style="@style/InputLayout">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/Edt_Cidade"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Cidade" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/Edt_Bairro_layout"
+                style="@style/InputLayout">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/Edt_Bairro"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Bairro" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/Edt_Rua_layout"
+                style="@style/InputLayout">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/Edt_Rua"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Rua" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/Edt_NumCasa_layout"
+                style="@style/InputLayout">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/Edt_NumCasa"
+                    android:layout_width="117dp"
+                    android:layout_height="wrap_content"
+                    android:hint="Nº" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/textButton"
+                style="@style/Widget.MaterialComponents.Button.TextButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginBottom="10dp"
+                android:onClick="ClicaBotao001"
+                android:padding="8dp"
+                android:text="Voltar"
+                android:textSize="16sp"
+                app:iconPadding="10dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/Btn_Login"
+                android:layout_width="100dp"
+                android:layout_height="60dp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="180dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="12dp"
+                android:layout_marginBottom="10dp"
+
+                android:padding="8dp"
+                android:text="Salvar"
+                android:textSize="16sp"
+                app:iconPadding="10dp" />
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+</ScrollView>

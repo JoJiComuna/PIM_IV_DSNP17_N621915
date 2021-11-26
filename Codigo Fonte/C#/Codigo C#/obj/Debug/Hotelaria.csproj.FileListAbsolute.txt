@@ -1,0 +1,394 @@
+C:\Users\Math\source\repos\Hotelaria\bin\Debug\Hotelaria.exe.config
+C:\Users\Math\source\repos\Hotelaria\bin\Debug\Hotelaria.exe
+C:\Users\Math\source\repos\Hotelaria\bin\Debug\Hotelaria.pdb
+C:\Users\Math\source\repos\Hotelaria\bin\Debug\XanderUI.dll
+C:\Users\Math\source\repos\Hotelaria\obj\Debug\Hotelaria.csprojAssemblyReference.cache
+C:\Users\Math\source\repos\Hotelaria\obj\Debug\Hotelaria.Properties.Resources.resources
+C:\Users\Math\source\repos\Hotelaria\obj\Debug\Hotelaria.csproj.GenerateResource.cache
+C:\Users\Math\source\repos\Hotelaria\obj\Debug\Hotelaria.csproj.CoreCompileInputs.cache
+C:\Users\Math\source\repos\Hotelaria\obj\Debug\Hotelaria.csproj.CopyComplete
+C:\Users\Math\source\repos\Hotelaria\obj\Debug\Hotelaria.exe
+C:\Users\Math\source\repos\Hotelaria\obj\Debug\Hotelaria.pdb
+C:\Users\Math\source\repos\Hotelaria\obj\Debug\Hotelaria.Views.test.resources
+C:\Users\Math\source\repos\Hotelaria\bin\Debug\MaterialSkin.dll
+C:\Users\Math\source\repos\Hotelaria\bin\Debug\MetroFramework.Design.dll
+C:\Users\Math\source\repos\Hotelaria\bin\Debug\MetroFramework.dll
+C:\Users\Math\source\repos\Hotelaria\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Math\source\repos\Hotelaria\obj\Debug\Hotelaria.Views.Menu.MainMenu.resources
+C:\Users\Math\source\repos\Hotelaria\obj\Debug\Hotelaria.Views.Hospedes.Hospedes.resources
+C:\Users\Math\source\repos\Hotelaria\obj\Debug\Hotelaria.Views.Hospedes.NovoHospede.resources
+C:\Users\Math\source\repos\Hotelaria\obj\Debug\Hotelaria.Views.Hospedagens.Hospedagens.resources
+C:\Users\Math\source\repos\Hotelaria\obj\Debug\Hotelaria.Views.Hospedagens.NovaHospedagem.resources
+C:\Users\Math\source\repos\Hotelaria\obj\Debug\Hotelaria.Views.Login.resources
+C:\Users\Math\source\repos\Hotelaria\obj\Debug\Hotelaria.Views.Pagamentos.Pagamentos.resources
+C:\Users\Math\source\repos\Hotelaria\obj\Debug\Hotelaria.Views.Pagamentos.NovoPagamento.resources
+C:\Users\Math\source\repos\Hotelaria\obj\Debug\Hotelaria.Views.Hospedagens.EditHospedagem.resources
+C:\Users\Math\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.csprojAssemblyReference.cache
+C:\Users\Math\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Properties.Resources.resources
+C:\Users\Math\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.Hospedagens.EditHospedagem.resources
+C:\Users\Math\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.Hospedagens.Hospedagens.resources
+C:\Users\Math\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.Hospedagens.NovaHospedagem.resources
+C:\Users\Math\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.Hospedes.Hospedes.resources
+C:\Users\Math\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.Hospedes.NovoHospede.resources
+C:\Users\Math\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.Login.resources
+C:\Users\Math\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.Menu.MainMenu.resources
+C:\Users\Math\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.Pagamentos.NovoPagamento.resources
+C:\Users\Math\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.Pagamentos.Pagamentos.resources
+C:\Users\Math\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.test.resources
+C:\Users\Math\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.csproj.GenerateResource.cache
+C:\Users\Math\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.csproj.CoreCompileInputs.cache
+C:\Users\Math\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.exe
+C:\Users\Math\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.pdb
+C:\Users\Math\source\repos\Hotelaria 2.0\bin\Debug\Hotelaria.exe.config
+C:\Users\Math\source\repos\Hotelaria 2.0\bin\Debug\Hotelaria.exe
+C:\Users\Math\source\repos\Hotelaria 2.0\bin\Debug\Hotelaria.pdb
+C:\Users\Math\source\repos\Hotelaria 2.0\bin\Debug\MaterialSkin.dll
+C:\Users\Math\source\repos\Hotelaria 2.0\bin\Debug\MetroFramework.Design.dll
+C:\Users\Math\source\repos\Hotelaria 2.0\bin\Debug\MetroFramework.dll
+C:\Users\Math\source\repos\Hotelaria 2.0\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Math\source\repos\Hotelaria 2.0\bin\Debug\XanderUI.dll
+C:\Users\Math\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.csproj.CopyComplete
+C:\Users\Math\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.Hospedes.FichaHospede.resources
+C:\Users\Matheus\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.csproj.AssemblyReference.cache
+C:\Users\Matheus\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Properties.Resources.resources
+C:\Users\Matheus\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.Hospedagens.EditHospedagem.resources
+C:\Users\Matheus\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.Hospedagens.Hospedagens.resources
+C:\Users\Matheus\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.Hospedagens.NovaHospedagem.resources
+C:\Users\Matheus\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.Hospedes.FichaHospede.resources
+C:\Users\Matheus\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.Hospedes.Hospedes.resources
+C:\Users\Matheus\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.Hospedes.NovoHospede.resources
+C:\Users\Matheus\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.Login.resources
+C:\Users\Matheus\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.Menu.MainMenu.resources
+C:\Users\Matheus\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.Pagamentos.NovoPagamento.resources
+C:\Users\Matheus\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.Pagamentos.Pagamentos.resources
+C:\Users\Matheus\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.test.resources
+C:\Users\Matheus\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.csproj.GenerateResource.cache
+C:\Users\Matheus\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.exe
+C:\Users\Matheus\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.pdb
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Hotelaria.exe.config
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Hotelaria.exe
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Hotelaria.pdb
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\MaterialSkin.dll
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\MetroFramework.Design.dll
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\MetroFramework.dll
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Matheus\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.Menu.Inicio.resources
+C:\Users\Matheus\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.Menu.Relatorios.resources
+C:\Users\Matheus\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.ADM.NovoTipoQuarto.resources
+C:\Users\Matheus\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.ADM.TipoQuarto.resources
+C:\Users\Matheus\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.ADM.Quartos.resources
+C:\Users\Matheus\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.ADM.NovoQuarto.resources
+C:\Users\Matheus\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.ADM.Usuarios.resources
+C:\Users\Matheus\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.ADM.ADMMenu.resources
+C:\Users\Matheus\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.ADM.ChavedeSeguranca.resources
+C:\Users\Matheus\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.ADM.NovaChave.resources
+C:\Users\Matheus\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.ADM.ControledePatrimonio.resources
+C:\Users\Matheus\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.ADM.NovoPatrimonio.resources
+C:\Users\Matheus\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.Hospedes.HospedesInativos.resources
+C:\Users\Matheus\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.ADM.NovoLoginUsuario.resources
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Routing.dll
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\System.Buffers.dll
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\System.Memory.dll
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Routing.xml
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\System.Buffers.xml
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\System.Memory.xml
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\CircularProgressBar.dll
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\WinFormAnimation.dll
+C:\Users\Matheus\source\repos\Hotelaria 2.0\bin\Debug\CircularProgressBar.xml
+C:\Users\Matheus\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.ADM.RecuperarSenha.resources
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Hotelaria.exe.config
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Hotelaria.exe
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Hotelaria.pdb
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\CircularProgressBar.dll
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\MaterialSkin.dll
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\MetroFramework.Design.dll
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\MetroFramework.dll
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Routing.dll
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Newtonsoft.Json.dll
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\System.Buffers.dll
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\System.Memory.dll
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\WinFormAnimation.dll
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\CircularProgressBar.xml
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Routing.xml
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\Newtonsoft.Json.xml
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\System.Buffers.xml
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\System.Memory.xml
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\magu_\source\repos\Hotelaria 2.0\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\magu_\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.csproj.AssemblyReference.cache
+C:\Users\magu_\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.csproj.SuggestedBindingRedirects.cache
+C:\Users\magu_\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Properties.Resources.resources
+C:\Users\magu_\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.ADM.ADMMenu.resources
+C:\Users\magu_\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.ADM.ChavedeSeguranca.resources
+C:\Users\magu_\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.ADM.ControledePatrimonio.resources
+C:\Users\magu_\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.ADM.NovaChave.resources
+C:\Users\magu_\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.ADM.NovoLoginUsuario.resources
+C:\Users\magu_\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.ADM.NovoPatrimonio.resources
+C:\Users\magu_\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.ADM.NovoQuarto.resources
+C:\Users\magu_\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.ADM.NovoTipoQuarto.resources
+C:\Users\magu_\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.ADM.Quartos.resources
+C:\Users\magu_\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.ADM.RecuperarSenha.resources
+C:\Users\magu_\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.ADM.TipoQuarto.resources
+C:\Users\magu_\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.ADM.Usuarios.resources
+C:\Users\magu_\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.Hospedagens.EditHospedagem.resources
+C:\Users\magu_\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.Hospedagens.Hospedagens.resources
+C:\Users\magu_\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.Hospedagens.NovaHospedagem.resources
+C:\Users\magu_\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.Hospedes.FichaHospede.resources
+C:\Users\magu_\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.Hospedes.Hospedes.resources
+C:\Users\magu_\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.Hospedes.HospedesInativos.resources
+C:\Users\magu_\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.Hospedes.NovoHospede.resources
+C:\Users\magu_\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.Login.resources
+C:\Users\magu_\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.Menu.Inicio.resources
+C:\Users\magu_\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.Menu.MainMenu.resources
+C:\Users\magu_\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.Menu.Relatorios.resources
+C:\Users\magu_\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.Pagamentos.NovoPagamento.resources
+C:\Users\magu_\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.Pagamentos.Pagamentos.resources
+C:\Users\magu_\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.Views.test.resources
+C:\Users\magu_\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.csproj.GenerateResource.cache
+C:\Users\magu_\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.csproj.CoreCompileInputs.cache
+C:\Users\magu_\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.csproj.CopyComplete
+C:\Users\magu_\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.exe
+C:\Users\magu_\source\repos\Hotelaria 2.0\obj\Debug\Hotelaria.pdb
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Hotelaria.exe.config
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Hotelaria.exe
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Hotelaria.pdb
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\CircularProgressBar.dll
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\MaterialSkin.dll
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\MetroFramework.Design.dll
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\MetroFramework.dll
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.AspNetCore.Routing.dll
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Newtonsoft.Json.dll
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\System.Buffers.dll
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\System.Memory.dll
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\WinFormAnimation.dll
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\CircularProgressBar.xml
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.AspNetCore.Routing.xml
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\Newtonsoft.Json.xml
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\System.Buffers.xml
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\System.Memory.xml
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\magu_\source\repos\Hotelaria\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\magu_\source\repos\Hotelaria\obj\Debug\Hotelaria.csproj.AssemblyReference.cache
+C:\Users\magu_\source\repos\Hotelaria\obj\Debug\Hotelaria.csproj.SuggestedBindingRedirects.cache
+C:\Users\magu_\source\repos\Hotelaria\obj\Debug\Hotelaria.Properties.Resources.resources
+C:\Users\magu_\source\repos\Hotelaria\obj\Debug\Hotelaria.Views.ADM.ADMMenu.resources
+C:\Users\magu_\source\repos\Hotelaria\obj\Debug\Hotelaria.Views.ADM.ChavedeSeguranca.resources
+C:\Users\magu_\source\repos\Hotelaria\obj\Debug\Hotelaria.Views.ADM.ControledePatrimonio.resources
+C:\Users\magu_\source\repos\Hotelaria\obj\Debug\Hotelaria.Views.ADM.NovaChave.resources
+C:\Users\magu_\source\repos\Hotelaria\obj\Debug\Hotelaria.Views.ADM.NovoLoginUsuario.resources
+C:\Users\magu_\source\repos\Hotelaria\obj\Debug\Hotelaria.Views.ADM.NovoPatrimonio.resources
+C:\Users\magu_\source\repos\Hotelaria\obj\Debug\Hotelaria.Views.ADM.NovoQuarto.resources
+C:\Users\magu_\source\repos\Hotelaria\obj\Debug\Hotelaria.Views.ADM.NovoTipoQuarto.resources
+C:\Users\magu_\source\repos\Hotelaria\obj\Debug\Hotelaria.Views.ADM.Quartos.resources
+C:\Users\magu_\source\repos\Hotelaria\obj\Debug\Hotelaria.Views.ADM.RecuperarSenha.resources
+C:\Users\magu_\source\repos\Hotelaria\obj\Debug\Hotelaria.Views.ADM.TipoQuarto.resources
+C:\Users\magu_\source\repos\Hotelaria\obj\Debug\Hotelaria.Views.ADM.Usuarios.resources
+C:\Users\magu_\source\repos\Hotelaria\obj\Debug\Hotelaria.Views.Hospedagens.EditHospedagem.resources
+C:\Users\magu_\source\repos\Hotelaria\obj\Debug\Hotelaria.Views.Hospedagens.Hospedagens.resources
+C:\Users\magu_\source\repos\Hotelaria\obj\Debug\Hotelaria.Views.Hospedagens.NovaHospedagem.resources
+C:\Users\magu_\source\repos\Hotelaria\obj\Debug\Hotelaria.Views.Hospedes.FichaHospede.resources
+C:\Users\magu_\source\repos\Hotelaria\obj\Debug\Hotelaria.Views.Hospedes.Hospedes.resources
+C:\Users\magu_\source\repos\Hotelaria\obj\Debug\Hotelaria.Views.Hospedes.HospedesInativos.resources
+C:\Users\magu_\source\repos\Hotelaria\obj\Debug\Hotelaria.Views.Hospedes.NovoHospede.resources
+C:\Users\magu_\source\repos\Hotelaria\obj\Debug\Hotelaria.Views.Login.resources
+C:\Users\magu_\source\repos\Hotelaria\obj\Debug\Hotelaria.Views.Menu.Inicio.resources
+C:\Users\magu_\source\repos\Hotelaria\obj\Debug\Hotelaria.Views.Menu.MainMenu.resources
+C:\Users\magu_\source\repos\Hotelaria\obj\Debug\Hotelaria.Views.Menu.Relatorios.resources
+C:\Users\magu_\source\repos\Hotelaria\obj\Debug\Hotelaria.Views.Pagamentos.NovoPagamento.resources
+C:\Users\magu_\source\repos\Hotelaria\obj\Debug\Hotelaria.Views.Pagamentos.Pagamentos.resources
+C:\Users\magu_\source\repos\Hotelaria\obj\Debug\Hotelaria.Views.test.resources
+C:\Users\magu_\source\repos\Hotelaria\obj\Debug\Hotelaria.csproj.GenerateResource.cache
+C:\Users\magu_\source\repos\Hotelaria\obj\Debug\Hotelaria.csproj.CoreCompileInputs.cache
+C:\Users\magu_\source\repos\Hotelaria\obj\Debug\Hotelaria.csproj.CopyComplete
+C:\Users\magu_\source\repos\Hotelaria\obj\Debug\Hotelaria.exe
+C:\Users\magu_\source\repos\Hotelaria\obj\Debug\Hotelaria.pdb

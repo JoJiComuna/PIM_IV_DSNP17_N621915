@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "30fc9449-95b2-4ab3-9a3f-68fa3095b92f": {
+      "ProjectGuid": "30fc9449-95b2-4ab3-9a3f-68fa3095b92f",
+      "DisplayName": "Web",
+      "ColorIndex": 0
+    },
+    "6e8bbeee-3514-4987-812f-517c97a5ea60": {
+      "ProjectGuid": "6e8bbeee-3514-4987-812f-517c97a5ea60",
+      "DisplayName": "Hotelaria",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
